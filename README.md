@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**ZentraTheMonke/ZentraTheMonke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ZentraTheMonke
 
-Here are some ideas to get you started:
+Welcome- I'm a passionate developer with slight expertise in C#, WPF, HTML/CSS/JS, and some C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- **Languages:** C#, WPF, HTML, CSS, JavaScript, PHP, C++
+- **Frameworks:** .NET, WPF
+- **Web Technologies:** HTML5, CSS3, JavaScript (ES6+) & jQuery
+- **Databases:** SQL Server, MySQL
+- **Version Control:** Git, GitHub
+- **Other Tools:** Visual Studio, Visual Studio Code, Photoshop (working on it)
+
+## 📊 GitHub Stats
+
+![ZentraTheMonke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZentraTheMonke&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZentraTheMonke&layout=compact&theme=dark)
+
+</div>
