@@ -4,7 +4,7 @@
 
 Welcome- I'm a passionate developer with slight expertise in C#, WPF, HTML/CSS/JS, and some C++
 
-## 🚀 Skills
+## Skills
 
 - **Languages:** C#, WPF, HTML, CSS, JavaScript, PHP, C++
 - **Frameworks:** .NET, WPF
